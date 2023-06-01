@@ -1,2 +1,3 @@
 # AP_repository
-repository for advanced programming project
+C++ Text Adventure game created for university Assignment
+
